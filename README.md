@@ -7,7 +7,7 @@ An simple end to end color detection using OpenCV.
 Checkout my youtube video-> https://youtu.be/tks_2EUGVLA
 
 ## Try Demo!
-No need to install try it out -> https://analyticalnahid-image-to-text-converter-ocr-3rkghv.streamlitapp.com/
+No need to install try it out -> https://color-detectionapp.herokuapp.com/
 
 ## Requirements
 - numpy==1.22.4

@@ -4,7 +4,7 @@ An simple end to end color detection using OpenCV.
 <img src="task02.png">
 
 ## How it works?
-Checkout my youtube video-> https://youtu.be/tks_2EUGVLA
+Checkout my youtube video-> https://youtu.be/bqhp94vSCD8
 
 ## Try Demo!
 No need to install try it out -> https://color-detectionapp.herokuapp.com/

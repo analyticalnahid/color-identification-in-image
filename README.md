@@ -1,7 +1,7 @@
 # Color Detection App
 An simple end to end color detection using OpenCV.
 
-<img src="Optical character Reader -thumb.png">
+<img src="task02.png">
 
 ## How it works?
 Checkout my youtube video-> https://youtu.be/tks_2EUGVLA
